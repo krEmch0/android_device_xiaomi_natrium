@@ -21,7 +21,7 @@ $(call inherit-product, device/xiaomi/natrium/device.mk)
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_natrium
+PRODUCT_NAME := pixelos_natrium
 PRODUCT_DEVICE := natrium
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := MI 5s Plus
